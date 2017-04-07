@@ -1,6 +1,6 @@
 # Ferie Programerings Øvelser
-Disse øvelser er gode, men det er slet ikke alt i har lært endnu.
-Det gode er at i kan se løsningen på øvelserne.
+Disse øvelser er gode, men det er slet ikke alt i har lært endnu.    
+Det gode er at i kan se løsningen.
 
 Editoren på siden virker ikke (hos mig, og måske også hos jer), men lav øvelserne i VS Code.
 
